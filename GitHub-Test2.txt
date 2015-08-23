@@ -1,0 +1,6 @@
+GitHub-Test2.txt
+
+Testing 123 from my Apple MacBook Pro 'pkjr-i7'
+
+And this is the third line of the GitHub testing text file GitHub-Test2.txt
+
